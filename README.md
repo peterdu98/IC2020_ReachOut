@@ -14,9 +14,9 @@ We offer the solution for helping either teachers or social workers to connect w
 ## Project Showcase
 
 <p float="left" align="center">
-  <img src="https://github.com/peterdu98/IC2020_ReachOut/blob/main/screenshots/Dashboard.png" width="300" />
-  <img src="https://github.com/peterdu98/IC2020_ReachOut/blob/main/screenshots/Students.png" width="300" />
-  <img src="https://github.com/peterdu98/IC2020_ReachOut/blob/main/screenshots/Student.png" width="300" />
+  <img src="https://github.com/peterdu98/IC2020_ReachOut/blob/main/screenshots/Dashboard.png" width="250" />
+  <img src="https://github.com/peterdu98/IC2020_ReachOut/blob/main/screenshots/Students.png" width="250" />
+  <img src="https://github.com/peterdu98/IC2020_ReachOut/blob/main/screenshots/Student.png" width="250" />
 </p>
 
 ## Presentation
