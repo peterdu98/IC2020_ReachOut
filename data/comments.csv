@@ -1,0 +1,227 @@
+,StudentID,CourseID,comments
+0,1,COS10001,This student currently has low attendance rate compared to other students.
+1,1,STA10001,This student currently has low attendance rate compared to other students.
+2,1,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+3,1,STA30001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+4,2,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+5,2,STA10001,This student currently has low attendance rate compared to other students.
+6,2,STA20001,This student currently has low attendance rate compared to other students.
+7,2,STA30001,
+8,3,COS10001,This student currently has low attendance rate compared to other students.
+9,3,STA10001,This student has a lower grade compared to his/her average of previous units.
+10,4,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+11,4,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+12,4,STA20001,
+13,4,STA30001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+14,5,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+15,5,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+16,5,STA20001,
+17,6,COS10001,
+18,6,STA10001,This student currently has low attendance rate compared to other students.
+19,6,STA20001,
+20,6,STA30001,
+21,7,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+22,7,STA10001,This student currently has low attendance rate compared to other students.
+23,7,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+24,8,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+25,8,STA10001,This student currently has low attendance rate compared to other students.
+26,8,STA20001,This student currently has low attendance rate compared to other students.
+27,8,STA30001,
+28,9,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+29,9,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+30,9,STA20001,This student currently has low attendance rate compared to other students.
+31,9,STA30001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+32,10,COS10001,This student has a lower grade compared to his/her average of previous units.
+33,10,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+34,11,COS10001,This student currently has low attendance rate compared to other students.
+35,11,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+36,11,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+37,12,COS10001,
+38,12,STA10001,
+39,12,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+40,12,STA30001,
+41,13,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+42,13,STA10001,
+43,13,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+44,14,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+45,14,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+46,14,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+47,14,STA30001,This student currently has low attendance rate compared to other students.
+48,15,COS10001,This student currently has low attendance rate compared to other students.
+49,15,STA10001,
+50,15,STA20001,
+51,16,COS10001,This student currently has low attendance rate compared to other students.
+52,16,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+53,16,STA20001,
+54,16,STA30001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+55,17,COS10001,This student currently has low attendance rate compared to other students.
+56,17,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+57,17,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+58,17,STA30001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+59,18,COS10001,This student currently has low attendance rate compared to other students.
+60,18,STA10001,
+61,18,STA20001,This student currently has low attendance rate compared to other students.
+62,19,COS10001,
+63,19,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+64,20,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+65,20,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+66,21,COS10001,This student currently has low attendance rate compared to other students.
+67,21,STA10001,
+68,22,COS10001,This student currently has low attendance rate compared to other students.
+69,22,STA10001,This student currently has low attendance rate compared to other students.
+70,22,STA20001,This student currently has low attendance rate compared to other students.
+71,23,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+72,23,STA10001,
+73,23,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+74,24,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+75,24,STA10001,This student currently has low attendance rate compared to other students.
+76,24,STA20001,This student currently has low attendance rate compared to other students.
+77,24,STA30001,This student currently has low attendance rate compared to other students.
+78,25,COS10001,This student has a lower grade compared to his/her average of previous units.
+79,25,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+80,26,COS10001,
+81,26,STA10001,
+82,26,STA20001,
+83,26,STA30001,
+84,27,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+85,27,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+86,27,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+87,27,STA30001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+88,28,COS10001,
+89,28,STA10001,This student currently has low attendance rate compared to other students.
+90,29,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+91,29,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+92,30,COS10001,This student currently has low attendance rate compared to other students.
+93,30,STA10001,
+94,31,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+95,31,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+96,31,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+97,31,STA30001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+98,32,COS10001,
+99,32,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+100,32,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+101,33,COS10001,
+102,33,STA10001,This student currently has low attendance rate compared to other students.
+103,33,STA20001,
+104,34,COS10001,
+105,34,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+106,34,STA20001,
+107,34,STA30001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+108,35,COS10001,This student currently has low attendance rate compared to other students.
+109,35,STA10001,This student currently has low attendance rate compared to other students.
+110,36,COS10001,This student currently has low attendance rate compared to other students.
+111,36,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+112,36,STA20001,
+113,37,COS10001,This student has a lower grade compared to his/her average of previous units.
+114,37,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+115,38,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+116,38,STA10001,This student currently has low attendance rate compared to other students.
+117,38,STA20001,
+118,39,COS10001,This student currently has low attendance rate compared to other students.
+119,39,STA10001,
+120,39,STA20001,
+121,39,STA30001,
+122,40,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+123,40,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+124,40,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+125,40,STA30001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+126,41,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+127,41,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+128,41,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+129,41,STA30001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+130,42,COS10001,This student currently has low attendance rate compared to other students.
+131,42,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+132,42,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+133,43,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+134,43,STA10001,This student has a lower grade compared to his/her average of previous units.
+135,44,COS10001,
+136,44,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+137,45,COS10001,This student currently has low attendance rate compared to other students.
+138,45,STA10001,This student currently has low attendance rate compared to other students.
+139,46,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+140,46,STA10001,This student has a lower grade compared to his/her average of previous units.
+141,47,COS10001,This student currently has low attendance rate compared to other students.
+142,47,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+143,47,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+144,47,STA30001,This student currently has low attendance rate compared to other students.
+145,48,COS10001,
+146,48,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+147,48,STA20001,This student currently has low attendance rate compared to other students.
+148,48,STA30001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+149,49,COS10001,"This student has a lower grade compared to his/her average of previous units.
+This student might be overloaded with many units."
+150,49,STA10001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+151,49,STA20001,"This student has a lower grade compared to his/her average of previous units.
+This student currently has low attendance rate compared to other students."
+152,50,COS10001,This student has a lower grade compared to his/her average of previous units.
+153,50,STA10001,This student has a lower grade compared to his/her average of previous units.
